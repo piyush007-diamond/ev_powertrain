@@ -45,9 +45,9 @@ The model is purely longitudinal (1-D) and uses lookup-table-based component map
 ```
 navin_model/
 ├── navin_model.slx          # Top-level Simulink model
-├── init_params.m            # Workspace initialisation script (parameters & maps)
+├── images.....            # every block image
 ├── README.md                # This file
-└── results/                 # Auto-generated figures and .mat result files
+
 ```
 
 ---
